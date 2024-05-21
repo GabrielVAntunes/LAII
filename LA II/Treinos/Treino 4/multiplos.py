@@ -15,8 +15,3 @@ def multiplos(n,d):
     return count
 
 # 100 %
-
-
-
-print(multiplos(5,12))
-#output esperado: 24
